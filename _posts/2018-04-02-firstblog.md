@@ -3,7 +3,7 @@ layout: post
 title: Hi There
 ---
 ### Welcome to My Blog
-Hi! I'm Nikhila, I'm interested in pursuing a PhD in Cell Biology/Neuroscience. The blog is an outlet for my ideas and musings on everything I find interesting.
+Hi! I'm Nikhila. This blog is an outlet for my ideas and musings on everything I find interesting.
 
 
 ### First post, new pages and intersting work soon
